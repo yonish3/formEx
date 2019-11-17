@@ -1,0 +1,31 @@
+#container{
+    background-color: teal;
+    height: 300px;
+    width: 400px;
+    position: absolute;
+
+}
+
+#line2{
+    display: inline-block;
+}
+#line3{
+    display: inline-block;
+}
+
+
+
+#salary{
+display: inline-block;
+
+}
+
+#birthday{
+    display: inline-block;
+    
+    }
+
+#result{
+    color: red;
+
+}
